@@ -6,11 +6,11 @@
     <img alt="Ukjae Kim" src="Group 333.svg">
   </picture>
 
+<br><br>
 
 
 
-
-> Hello.\
-I'm Ukjae Kim - Student Dev.
+> **Hello.\
+I'm Ukjae Kim - Student Dev.**
 
 
