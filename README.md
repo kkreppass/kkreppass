@@ -19,4 +19,4 @@ I'm **Ukjae Kim** - *Student Dev.*\
 <a href = "https://www.youtube.com/@%ED%81%AC%EB%A0%88%ED%8C%8C%EC%8A%A4"><img src = "https://github.com/kkreppass/kkreppass/blob/main/Group%20108.svg"></a>
 <br><br>
 <img alt="hanbyeol picture drawn by my american friend" src="KakaoTalk_20241209_004319846.jpg" style="height: 200px">
-My American friend drew Hanbyeol for me😭
+My American friend drew Hanbyeol for me 😍
