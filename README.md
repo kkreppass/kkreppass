@@ -8,7 +8,9 @@
 
 
 
-> **Hello.\
-I'm Ukjae Kim - Student Dev.**
+
+
+> Hello.\
+I'm Ukjae Kim - Student Dev.
 
 
