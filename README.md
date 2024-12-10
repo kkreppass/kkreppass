@@ -10,8 +10,9 @@
 > Hello.\
 I'm **Ukjae Kim** - *Student Dev.*\
 > Currently studying **Competitive programming.**
-> 
-<p align="center">
+>
+<br>
+<p align="left">
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusticeHui&layout=compact"><br>-->
   <!--<a href="https://codeforces.com/profile/justice_hui"><img src="http://cf.leed.at/?id=Justice_Hui"></a><br>-->
   <!--<img src="https://github-readme-stats.vercel.app/api?username=justiceHui&show_icons=true&hide_border=true"><br>-->
