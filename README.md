@@ -11,6 +11,12 @@
 I'm **Ukjae Kim** - *Student Dev.*\
 > Currently studying **Competitive programming.**
 > 
+<p align="center">
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusticeHui&layout=compact"><br>-->
+  <!--<a href="https://codeforces.com/profile/justice_hui"><img src="http://cf.leed.at/?id=Justice_Hui"></a><br>-->
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=justiceHui&show_icons=true&hide_border=true"><br>-->
+  <a href="https://solved.ac/profile/allang"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=allang"></a><br>
+</p>
 
 <br>
 <a href = "https://snu.mcv.kr"><img src = "https://github.com/kkreppass/kkreppass/blob/main/Group%20110.svg"></a>
@@ -19,4 +25,4 @@ I'm **Ukjae Kim** - *Student Dev.*\
 <a href = "https://www.youtube.com/@%ED%81%AC%EB%A0%88%ED%8C%8C%EC%8A%A4"><img src = "https://github.com/kkreppass/kkreppass/blob/main/Group%20108.svg"></a>
 <br><br>
 <img alt="hanbyeol picture drawn by my american friend" src="KakaoTalk_20241209_004319846.jpg" style="height: 200px;">
-My American friend drew Hanbyeol for me 😍
+My favorite Character is Hanbyeol.
