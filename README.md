@@ -24,15 +24,17 @@
 </section>
 <section style="margin-top: 20px">
 <h3>Social</h3>
-        <div align="center">
+        <div>
         <a href="https://solved.ac/profile/allang"><img src="logos/solvedac.svg" style="height: 30px"></a>
         <a href="https://github.com/kkreppass"><img src="logos/github.svg" style="height: 30px"></a>
         <a href="https://discord.gg/VtBBcwZ2"><img src="logos/discord.svg" style="height: 30px"></a>
         </div>
 </section>
 <section>
-<hr>
-<div>Reze peek >D<</div>
+<br>
+<p>
+<div>Reze peek@!</div>
 <img src="rezeticon/rezeticon1.png" alt="Reze icon left" style="height: 40px; width: auto;">
 <img src="rezeticon/rezeticon2.png" alt="Reze icon right" style="height: 40px; width: auto;">
 </section>
+</p>
