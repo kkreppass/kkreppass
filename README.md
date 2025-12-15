@@ -1,15 +1,38 @@
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-<img src="Group 332.svg" style="height: 50px" align="right" />
-</a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/kkreppass/kkreppass/1286a90ee512d1d700c128af9a50781cd6449b63/Group%20334.svg">
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/kkreppass/kkreppass/1286a90ee512d1d700c128af9a50781cd6449b63/Group%20333.svg">
-  <img alt="Ukjae Kim" src="Group 333.svg">
-</picture>
-<br><br>
-<a href="https://solved.ac/profile/allang"><img src="https://github.com/kkreppass/kkreppass/blob/main/Group%20104.svg"></a>
-<a href="https://github.com/kkreppass"><img src="https://github.com/kkreppass/kkreppass/blob/main/Group%20106.svg"></a>
-<br>
-My favorite Character is Reze.
+<header><h2>
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+        <img src="basic/face.svg" style="height: 50px" align="right" />
+        </a>
+        <picture>
+        <source media="(prefers-color-scheme: dark)" 
+                srcset="basic/title_dark-theme.svg">
+        <source media="(prefers-color-scheme: light)" 
+                srcset="title_whilte-theme.svg">
+        <img alt="Ukjae Kim" src="basic/title_white-theme.svg">
+        </picture>
+        </h2>
+</header>
+<section>
+<h3>Stack</h3>
+<ul>
+<li>designing (Figma, Affinity)</li>
+<li>Playing piano</li>
+</ul>
+</section>
+<section>
+<p style="display: flex; align-items: center; justify-content: center; gap: 8px; smargin: 0;">
+</p>
+</section>
+<section style="margin-top: 20px">
+<h3>Social</h3>
+        <div align="center">
+        <a href="https://solved.ac/profile/allang"><img src="logos/solvedac.svg" style="height: 30px"></a>
+        <a href="https://github.com/kkreppass"><img src="logos/github.svg" style="height: 30px"></a>
+        <a href="https://discord.gg/VtBBcwZ2"><img src="logos/discord.svg" style="height: 30px"></a>
+        </div>
+</section>
+<section>
+<hr>
+<div>Reze peek >D<</div>
+<img src="rezeticon/rezeticon1.png" alt="Reze icon left" style="height: 40px; width: auto;">
+<img src="rezeticon/rezeticon2.png" alt="Reze icon right" style="height: 40px; width: auto;">
+</section>
