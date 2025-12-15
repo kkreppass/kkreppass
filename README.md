@@ -22,16 +22,16 @@
 <p style="display: flex; align-items: center; justify-content: center; gap: 8px; smargin: 0;">
 </p>
 </section>
-<section style="margin-top: 20px">
+<section>
 <h3>Social</h3>
-        <div>
+        <ul><div>
         <a href="https://solved.ac/profile/allang"><img src="logos/solvedac.svg" style="height: 30px"></a>
         <a href="https://github.com/kkreppass"><img src="logos/github.svg" style="height: 30px"></a>
         <a href="https://discord.gg/VtBBcwZ2"><img src="logos/discord.svg" style="height: 30px"></a>
-        </div>
+        </div></ul>
 </section>
 <section>
 <h3>Reze</h3>
-<img src="rezeticon/rezeticon1.png" alt="Reze icon left" style="height: 40px; width: auto;">
-<img src="rezeticon/rezeticon2.png" alt="Reze icon right" style="height: 40px; width: auto;">
+<ul><img src="rezeticon/rezeticon1.png" alt="Reze icon left" style="height: 40px; width: auto;">
+<img src="rezeticon/rezeticon2.png" alt="Reze icon right" style="height: 40px; width: auto;"></ul>
 </section>
