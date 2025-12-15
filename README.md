@@ -6,7 +6,7 @@
         <source media="(prefers-color-scheme: dark)" 
                 srcset="basic/title_dark-theme.svg">
         <source media="(prefers-color-scheme: light)" 
-                srcset="title_whilte-theme.svg">
+                srcset="basic/title_whilte-theme.svg">
         <img alt="Ukjae Kim" src="basic/title_white-theme.svg">
         </picture>
         </h2>
