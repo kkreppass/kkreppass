@@ -31,7 +31,7 @@
         </div></ul>
 </section>
 <section>
-<h3>Reze</h3>
+<h3>Rezeticon</h3>
 <ul><img src="rezeticon/rezeticon1.png" alt="Reze icon left" style="height: 40px; width: auto;">
 <img src="rezeticon/rezeticon2.png" alt="Reze icon right" style="height: 40px; width: auto;"></ul>
 </section>
