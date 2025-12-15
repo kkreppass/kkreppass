@@ -31,10 +31,7 @@
         </div>
 </section>
 <section>
-<br>
-<p>
-<div>Reze peek@!</div>
+<h3>Reze</h3>
 <img src="rezeticon/rezeticon1.png" alt="Reze icon left" style="height: 40px; width: auto;">
 <img src="rezeticon/rezeticon2.png" alt="Reze icon right" style="height: 40px; width: auto;">
 </section>
-</p>
