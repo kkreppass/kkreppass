@@ -1,6 +1,6 @@
 <header><h2>
         <a href="https://tiny.cc/l3lw001" target="_blank">
-        <img src="basic/face.svg" style="height: 50px" align="right" />
+        <img src="basic/face.png" style="height: 50px" align="right" />
         </a>
         <picture>
         <source media="(prefers-color-scheme: dark)" 
