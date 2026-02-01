@@ -14,8 +14,8 @@
 <section>
 <h3>Stack</h3>
 <ul>
-<li>designing (Figma, Affinity)</li>
-<li>Playing piano</li>
+<li>Minecraft pvp</li>
+<li>piano(newbie)</li>
 </ul>
 </section>
 <section>
