@@ -14,8 +14,7 @@
 <section>
 <h3>Stack</h3>
 <ul>
-<li>Minecraft pvp</li>
-<li>piano(newbie)</li>
+<li>nothing</li>
 </ul>
 </section>
 <section>
