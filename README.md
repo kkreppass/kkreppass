@@ -12,10 +12,10 @@
         </h2>
 </header>
 <section>
-<h3>Stack</h3>
+<!--<h3>Stack</h3>
 <ul>
 <li>nothing</li>
-</ul>
+</ul>-->
 </section>
 <section>
 <p style="display: flex; align-items: center; justify-content: center; gap: 8px; smargin: 0;">
